@@ -134,10 +134,7 @@ npm install -D sass sass-loader@10
 
 ```
 
-```
 
-
-```
 <img width="1269" height="646" alt="827801d29ea9ef2701cd5abefe9af766" src="https://github.com/user-attachments/assets/11d8113a-25cc-4b55-88b4-2b37aa91c77e" />
 <img width="1272" height="641" alt="635e37dab93f6186b320d4a83de686db" src="https://github.com/user-attachments/assets/1f195945-5415-4673-a3d6-7825e1049804" />
 <img width="1278" height="569" alt="739b8a333521e0056eaea3410743f147" src="https://github.com/user-attachments/assets/8c590baa-01e5-4f11-bcf3-51fb6c689627" />
